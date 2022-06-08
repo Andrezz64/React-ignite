@@ -1,5 +1,5 @@
 import { RepositoryItem } from "./repositoryItem.jsx";
-
+import "../styles/repositories.scss"
 const repository = {
     name: 'Ignite React',
     description: 'Estudando React',
